@@ -1,0 +1,486 @@
+@font-face {
+    font-family: "sparta";
+    src: url(/fonts/League_Spartan/LeagueSpartan-VariableFont_wght.ttf);
+}
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.teamo {    
+    color: rgb(255, 0, 0);
+
+}
+
+/* =================POEMA 5======================= */
+.poema5{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema5 > .mensagem5{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 70px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema5 > .mensagem5 > .titulo {
+
+    color: rgb(55, 255, 0);
+}
+
+/* ===============POEMA 1====================== */
+.poema1{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.poema1 > .mensagem{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 80px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+}
+
+.poema1 > .mensagem > h1{
+
+    color: rgb(0, 217, 255);
+}
+/* ================POEMA 2=============================== */
+.poema2{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema2 > .mensagem2{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 80px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema2 > .mensagem2 > .titulo {
+
+    color: rgb(27, 156, 147);
+}
+
+/* =================POEMA 3======================= */
+.poema3{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema3 > .mensagem3{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 80px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema3 > .mensagem3 > .titulo {
+
+    color: rgb(6, 35, 162);
+}
+
+/* =================POEMA 4======================= */
+.poema4{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema4 > .mensagem4{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 80px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema4 > .mensagem4 > .titulo {
+
+    color: rgb(127, 6, 6);
+}
+
+
+/* ============= POEMA 6 ====================*/
+
+.poema6{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section6.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema6 > .mensagem6{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 50px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema6 > .mensagem6 > .titulo {
+
+    color: rgb(255, 0, 0);
+}
+
+/* ============= POEMA 7 ====================*/
+
+.poema7{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section7.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema7 > .mensagem7{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 30px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema7 > .mensagem7 > .titulo {
+
+    color: rgb(0, 42, 255);
+}
+
+/* ============= POEMA 8====================*/
+
+.poema8{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section8.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema8 > .mensagem8{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(50px);
+    padding: 10px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema8 > .mensagem8 > .titulo {
+
+    color: rgb(255, 255, 255);
+}
+
+/* ============= POEMA 9====================*/
+
+.poema9{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section8.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema9 > .mensagem9{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    padding: 50px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema9 > .mensagem9 > .titulo {
+
+    color: rgb(0, 255, 136);
+}
+
+/* ============= POEMA 10====================*/
+
+.poema10{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema10 > .mensagem10{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    padding: 50px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema10 > .mensagem10 > .titulo {
+
+    color: rgb(106, 0, 255);
+}
+
+
+/* ============= POEMA 15 ====================*/
+
+.poema15{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section11.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema15 > .mensagem15{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 50px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema15 > .mensagem15 > .titulo {
+
+    color: rgb(0, 59, 81);
+}
+
+/* ============= POEMA 16 ====================*/
+
+.poema16{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/primeiro.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema16 > .mensagem16{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 10px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema16 > .mensagem16 > .titulo {
+
+    color: rgb(0, 20, 94);
+}
+
+/* ============= POEMA 17 ====================*/
+
+.poema17{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/image/imagem\ da\ section17.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema17 > .mensagem17{
+
+    width: 100%;
+    max-width: 500px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    padding: 20px;
+    font-family: "sparta";
+    color:white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.poema17 > .mensagem17 > .titulo {
+
+    color: rgb(102, 135, 255);
+}
+
+.poema17 > .mensagem17 > .mensagem {
+    color: rgb(255, 255, 255);
+
+}
+
+.poema17 > .mensagem17 > .mensagem > .voce {
+
+    color: red;
+
+}
+
+.poema17 > .mensagem17 > .mensagem > .noite {
+
+    color: red
+
+}
+
+/* ================VIDEO================= */
+
+.video > h1 {
+    color: #000000;
+    font-size: xx-large;
+    text-shadow:
+    0 0 7px #ffffff,
+    0 0 10px #ffffff,
+    0 0 21px #ffffff,
+    0 0 42px #ffffff,
+    0 0 82px #ffffff,
+    0 0 92px #ffffff,
+    0 0 102px #ffffff,
+    0 0 151px #ffffff,
+    0 0 200px #ffffff;
+    ;
+}
+
+.video {
+    background-image: url(/image/imagem\ da\ sectionvideo.jpg);
+    text-align: center; /* Centraliza tudo que está dentro da section */
+    padding: 40px;
+
+}
+
+.video > .mp4{
+    width: 500px;
+    height: 700px;
+    box-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px rgb(0, 0, 0),
+    0 0 82px rgb(0, 0, 0),
+    0 0 92px rgb(0, 0, 0),
+    0 0 102px rgb(0, 0, 0),
+    0 0 151px rgb(0, 0, 0),
+    0 0 200px rgb(0, 0, 0);
+}
